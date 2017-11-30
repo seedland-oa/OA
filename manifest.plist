@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/seedland-oa/OA/master/SeedlandOA.ipa</string>
+					<string>https://raw.githubusercontent.com/seedland-oa/OA/https://raw.githubusercontent.com/seedland-oa/OA/master/SeedlandOA.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/seedland-oa/OA/master/Icon-App-57X57%401x.png</string>
+					<string>https://raw.githubusercontent.com/seedland-oa/OA/1b59911181acc3c72ba2e7ec9b90c0981fefdd5b/Icon-App-57X57%401x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>cc.seedland.seedoa</string>
 				<key>bundle-version</key>
-				<string>6.10</string>
+				<string>6.20</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
